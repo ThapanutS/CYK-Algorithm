@@ -6,7 +6,6 @@ Producer : Thapanut Saripat, Trisinchai Kamjamnong, Piyabute Chairiboon, Sirapop
 ![Home](https://user-images.githubusercontent.com/78923610/112649714-3f5c4580-8e7d-11eb-8eed-2c5108d4a15f.PNG)
 
 Example Rule
-\n
 Rule: 1 "Case that can be used"
 
 S -> AB | BC
