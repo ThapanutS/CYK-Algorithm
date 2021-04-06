@@ -139,7 +139,7 @@ F -> AD
 
 Rule: 19 "Case that can't be used"
 
-- -> AB
+- - -> AB
 A -> CD
 B -> c | b
 C -> a
